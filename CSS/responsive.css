@@ -1,0 +1,143 @@
+@media screen and (max-width: 922px) {
+  .card-layanan {
+    margin: 15px 0;
+  }
+
+  .input-cari .button-secondary {
+    width: 120px;
+    font-size: 14px;
+    border: 0;
+  }
+
+  .input-cari .button-primary {
+    font-size: 24px;
+    border-radius: 0 0 10px 10px;
+    -webkit-border-radius: 0 0 10px 10px;
+    -moz-border-radius: 0 0 10px 10px;
+    -ms-border-radius: 0 0 10px 10px;
+    -o-border-radius: 0 0 10px 10px;
+  }
+
+  #rekomendasi {
+    margin-top: 100px;
+  }
+
+  .button-fitur {
+    width: 100%;
+  }
+
+  #contact h3 {
+    font-size: 30px;
+    width: 100%;
+  }
+
+  .card-contact {
+    width: 100%;
+    height: auto;
+
+    padding: 52px 48px;
+    margin-top: 42px;
+  }
+
+  .card-contact h2 {
+    font-size: 32px;
+    line-height: 42px;
+    margin-bottom: 21px;
+  }
+
+  .button-primary {
+    display: block;
+    width: 100%;
+  }
+
+  .button-secondary {
+    display: block;
+    width: 100%;
+  }
+
+  .img-hero {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .hero-tagline h1 {
+    line-height: 52px;
+  }
+
+  .img-hero {
+    width: 210px;
+    height: auto;
+  }
+
+  h2 {
+    font-size: 34px;
+  }
+
+  .sub-title {
+    font-size: 16px;
+  }
+
+  .card-layanan {
+    margin: 15px 0;
+  }
+
+  #search h2 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+
+  #search p {
+    font-size: 18px;
+    line-height: 36px;
+  }
+
+  .input-cari .button-secondary {
+    width: 39.5%;
+    height: 60px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+  }
+
+  .input-cari .button-secondary:hover {
+    width: 39.5%;
+    height: 60px;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+  }
+
+  .input-cari .button-primary {
+    width: 30%;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 0 0 10px 0;
+    -webkit-border-radius: 0 0 10px 0;
+    -moz-border-radius: 0 0 10px 0;
+    -ms-border-radius: 0 0 10px 0;
+    -o-border-radius: 0 0 10px 0;
+  }
+
+  .input-cari .form-control {
+    height: 60px !important;
+    font-size: 12px;
+    width: auto;
+    border-radius: 0 0 0 10px;
+    -webkit-border-radius: 0 0 0 10px;
+    -moz-border-radius: 0 0 0 10px;
+    -ms-border-radius: 0 0 0 10px;
+    -o-border-radius: 0 0 0 10px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .img-hero {
+    width: 25%;
+    height: auto;
+  }
+}
